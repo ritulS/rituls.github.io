@@ -29,7 +29,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
 
-I am a masters student at University of Amsterdam and Vrije Universitiet
+I am a masters student at University of Amsterdam and Vrije Universitiet. Check
 
 
 
