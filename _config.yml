@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : 
+  name             : Ritul Satish
+  avatar           : "../images/profile.png"
   bio              : 
   location         : "Amsterdam, Netherlands"
   employer         :
