@@ -38,19 +38,19 @@ I am a masters student at University of Amsterdam and Vrije Universitiet. Check
 
 Languages, Frameworks & Tools 
 ------
-[![go](/images/logos/go.png){:width="75px"}](https://www.python.org/)
-[![C++](/images/logos/cpp.png){:width="75px"}](https://www.python.org/)
-[![C](/images/logos/c.png){:width="75px"}](https://www.python.org/)
-[![Python](/images/logos/python.png){:width="75px"}](https://www.python.org/)
-[![Git](/images/logos/git.png){:width="75px"}](https://git-scm.com/)
-[![Docker](/images/logos/docker.png){:width="75px"}](https://www.docker.com/)
-[![Kubernetes](/images/logos/kubernetes.png){:width="75px"}](https://kubernetes.io/)
-[![Helm](/images/logos/helm.png){:width="75px"}](https://helm.sh/)
-[![node](/images/logos/node.png){:width="75px"}](https://nodejs.org/en)
-[![gofiber](/images/logos/gofiber.png){:width="75px"}](https://nodejs.org/en)
-[![Postgres](/images/logos/postgres.png){:width="75px"}](https://www.postgresql.org/)
-[![mysql](/images/logos/mysql.png){:width="75px"}](https://www.mysql.com/)
-[![mongo](/images/logos/mongodb.png){:width="75px"}](https://www.mongodb.com/)
+[![go](/images/logos/go.png){:width="65px"}](https://www.python.org/)
+[![C++](/images/logos/cpp.png){:width="65px"}](https://www.python.org/)
+[![C](/images/logos/c.png){:width="65px"}](https://www.python.org/)
+[![Python](/images/logos/python.png){:width="65px"}](https://www.python.org/)
+[![Git](/images/logos/git.png){:width="65px"}](https://git-scm.com/)
+[![Docker](/images/logos/docker.png){:width="65px"}](https://www.docker.com/)
+[![Kubernetes](/images/logos/kubernetes.png){:width="65px"}](https://kubernetes.io/)
+[![Helm](/images/logos/helm.png){:width="65px"}](https://helm.sh/)
+[![node](/images/logos/node.png){:width="65px"}](https://nodejs.org/en)
+[![gofiber](/images/logos/gofiber.png){:width="65px"}](https://nodejs.org/en)
+[![Postgres](/images/logos/postgres.png){:width="65px"}](https://www.postgresql.org/)
+[![mysql](/images/logos/mysql.png){:width="65px"}](https://www.mysql.com/)
+[![mongo](/images/logos/mongodb.png){:width="65px"}](https://www.mongodb.com/)
 <!-- [![latex](/images/logos/latex.png){:width="50px"}](https://www.mongodb.com/) -->
 
 <!-- Icon duck for icons -->
