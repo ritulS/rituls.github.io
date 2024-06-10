@@ -29,7 +29,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
 
-I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I was work with the AtLarge team on Serverless computing supervised by Prof.Alexandru Iosup. I spent my summer working on Cross-service inconsistencies & distributed tracing at Inesc-id, Lisbon and was supervised by Prof.Rodrigo Rodrigues and Prof.Joao Garcia. During my undergradute I work with Prof.Debayan Gupta at Ashoka University on computer security related research. 
+I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I was work with the AtLarge systems team on Serverless computing supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). I spent my summer working on Cross-service inconsistencies & distributed tracing at the Distributed Systems Group at Inesc-id, Lisbon. Here I was supervised by Prof.[Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/) and Prof.[Joao Garcia](https://scholar.google.com/citations?user=hYb5gDYAAAAJ&hl=en). During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on computer security related research. 
 
 
 
@@ -38,19 +38,19 @@ I am a final year masters student at the University of Amsterdam & Vrije Univers
 
 Languages, Frameworks & Tools 
 ------
-[![go](/images/logos/go.png){:width="65px"}](https://www.python.org/)
-[![C++](/images/logos/cpp.png){:width="65px"}](https://www.python.org/)
-[![C](/images/logos/c.png){:width="65px"}](https://www.python.org/)
-[![Python](/images/logos/python.png){:width="65px"}](https://www.python.org/)
-[![Git](/images/logos/git.png){:width="65px"}](https://git-scm.com/)
-[![Docker](/images/logos/docker.png){:width="65px"}](https://www.docker.com/)
-[![Kubernetes](/images/logos/kubernetes.png){:width="65px"}](https://kubernetes.io/)
-[![Helm](/images/logos/helm.png){:width="65px"}](https://helm.sh/)
-[![node](/images/logos/node.png){:width="65px"}](https://nodejs.org/en)
-[![gofiber](/images/logos/gofiber.png){:width="65px"}](https://nodejs.org/en)
-[![Postgres](/images/logos/postgres.png){:width="65px"}](https://www.postgresql.org/)
-[![mysql](/images/logos/mysql.png){:width="65px"}](https://www.mysql.com/)
-[![mongo](/images/logos/mongodb.png){:width="65px"}](https://www.mongodb.com/)
+[![go](/images/logos/go.png){:width="50px"}](https://www.python.org/)
+[![C++](/images/logos/cpp.png){:width="50px"}](https://www.python.org/)
+[![C](/images/logos/c.png){:width="50px"}](https://www.python.org/)
+[![Python](/images/logos/python.png){:width="50px"}](https://www.python.org/)
+[![Git](/images/logos/git.png){:width="50px"}](https://git-scm.com/)
+[![Docker](/images/logos/docker.png){:width="50px"}](https://www.docker.com/)
+[![Kubernetes](/images/logos/kubernetes.png){:width="50px"}](https://kubernetes.io/)
+[![Helm](/images/logos/helm.png){:width="50px"}](https://helm.sh/)
+[![node](/images/logos/node.png){:width="50px"}](https://nodejs.org/en)
+[![gofiber](/images/logos/gofiber.png){:width="50px"}](https://nodejs.org/en)
+[![Postgres](/images/logos/postgres.png){:width="50px"}](https://www.postgresql.org/)
+[![mysql](/images/logos/mysql.png){:width="50px"}](https://www.mysql.com/)
+[![mongo](/images/logos/mongodb.png){:width="50px"}](https://www.mongodb.com/)
 <!-- [![latex](/images/logos/latex.png){:width="50px"}](https://www.mongodb.com/) -->
 
 <!-- Icon duck for icons -->
