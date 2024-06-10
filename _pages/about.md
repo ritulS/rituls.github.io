@@ -28,8 +28,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-
-I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I was work with the AtLarge systems team on Serverless computing supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). I spent my summer working on Cross-service inconsistencies & distributed tracing at the Distributed Systems Group at Inesc-id, Lisbon. Here I was supervised by Prof.[Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/) and Prof.[Joao Garcia](https://scholar.google.com/citations?user=hYb5gDYAAAAJ&hl=en). During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on computer security related research. 
+Hey there! :wave:
+------
+I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I was work with the AtLarge systems team on **Serverless computing** supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). I spent my summer working on **Cross-service inconsistencies & distributed tracing** at the Distributed Systems Group at Inesc-id, Lisbon. Here, I was supervised by Prof.[Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/) and Prof.[Joao Garcia](https://scholar.google.com/citations?user=hYb5gDYAAAAJ&hl=en). During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on **computer security** related research. 
 
 
 
