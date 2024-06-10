@@ -29,7 +29,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
 
-I am a masters student at University of Amsterdam and Vrije Universitiet. Check
+I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I was work with the AtLarge team on Serverless computing supervised by Prof.Alexandru Iosup. I spent my summer working on Cross-service inconsistencies & distributed tracing at Inesc-id, Lisbon and was supervised by Prof.Rodrigo Rodrigues and Prof.Joao Garcia. During my undergradute I work with Prof.Debayan Gupta at Ashoka University on computer security related research. 
 
 
 
