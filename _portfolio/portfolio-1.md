@@ -1,6 +1,6 @@
 ---
-title: "Distributed Tracing"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Microservice RPC Call Graph Topology Analysis"
+excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 
