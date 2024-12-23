@@ -1,6 +1,6 @@
 ---
 title: "Automotive Security Research"
-excerpt: "Ashoka University, Supervisor: Debayan Gupta <br/><img src='/images/500x300.png'>"
+excerpt: "Ashoka University, Supervisor: Debayan Gupta <br/><img src='/images/autosec_display1.jpeg'>"
 collection: portfolio
 ---
 
