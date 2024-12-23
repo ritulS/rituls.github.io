@@ -1,6 +1,6 @@
 ---
 title: "NEUROCRYPT: Coercion-Resistant Implicit Memory Authentication System"
-excerpt: "Ashoka University, Supervisor: Debayan Gupta <br/><img src='/images/500x300.png'>"
+excerpt: "Ashoka University, Supervisor: Debayan Gupta <br/><img src='/images/neurocrypt_high_level.png' style='width: 65%; height: 50%;'>"
 collection: portfolio
 ---
 
