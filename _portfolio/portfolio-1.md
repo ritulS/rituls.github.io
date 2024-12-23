@@ -1,6 +1,6 @@
 ---
-title: "Trace Augmentation and Reduction for Cross-Service Consistency Evaluation in Microservices"
-excerpt: "Short description of portfolio item number 1"
+title: "Novel Scale Adjustable Benchmark for Microservice Deployments"
+excerpt: "INESC-ID Lisbon, Vrije Universiteit; Supervisors: Rodrigo Rodrigues, Alexandru Iosup"
 collection: portfolio
 ---
 
