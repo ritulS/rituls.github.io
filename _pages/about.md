@@ -28,9 +28,15 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Hey there! :wave:
+Hey there! 
 ------
-I am a final year masters student at the University of Amsterdam & Vrije Universitiet. Here, I work with the AtLarge systems team on **Serverless computing** supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). I spent the last summer working on **Cross-Service Inconsistencies & Distributed tracing** at the Distributed Systems Group at Inesc-id, Lisbon. Here, I was supervised by Prof.[Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/). During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on **Computer Security** related research. 
+I am a final year masters student at the University of Amsterdam & Vrije Universitiet. I am broadly interested in **distributed systems** and am currently working on **serverless computing** and **microservices** research. I work with the [AtLarge](https://atlarge-research.com/rsatish/) systems research group on **Serverless computing** supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). As part of my Master’s thesis, I am working on designing and implementing a benchmark for datastore performance in microservice applications. This work builds on a research internship at INESC-ID, Lisbon, and is supervised by Prof. [Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/) and Prof. [Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). The thesis will be submitted to ASPLOS 2026. During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on **Computer Security** related research.
+
+<!-- Following a research internship at INESC-ID, Lisbon, I am working on designing and implementing a benchamrk for datstore performance in microservice applications. This work is extended to be my masters thesis. This thesis is supervised by Prof. [Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/). and Prof. [Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en) and will be submitted to ASPLOS '26. During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on **Computer Security** related research. -->
+
+
+
+<!-- Here, I work with the AtLarge systems team on **Serverless computing** supervised by Prof.[Alexandru Iosup](https://scholar.google.com/citations?user=7wwQ7twAAAAJ&hl=en). I spent the last summer working on **Cross-Service Inconsistencies & Distributed tracing** at the Distributed Systems Group at Inesc-id, Lisbon. Here, I was supervised by Prof.[Rodrigo Rodrigues](https://www.dpss.inesc-id.pt/~rodrigo/). During my undergradute I worked with Prof.[Debayan Gupta](https://debayangupta.com/) at Ashoka University on **Computer Security** related research.  -->
 
 
 
