@@ -1,6 +1,6 @@
 ---
 title: "Performance Characterization of Serveless Event Triggers"
-excerpt: "Vrije Universiteit, Supervisor: Alexandru Iosup <br/><img src='/images/500x300.png'>"
+excerpt: "Vrije Universiteit, Supervisor: Alexandru Iosup <br/><img src='/images/trigger_perf_high_level-1.png'>"
 collection: portfolio
 ---
 
