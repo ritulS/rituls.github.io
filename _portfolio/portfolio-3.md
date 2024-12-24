@@ -11,7 +11,7 @@ collection: portfolio
  
 <!-- <img src='/images/autosec_display2.jpeg' style='width: 40%; height: auto;'> -->
 
-**Attacking Automotive Remote Keyless Entry Systems**
+## Attacking Automotive Remote Keyless Entry Systems
 
 Remote Keyless Entry (RKE) systems are ubiquitous in modern day automobiles, providing enhanced convenience for vehicle owners, occasionally at the cost of security. Most automobile companies have proprietary methods of implementing RKE systems, sometimes built on insecure algorithms and authentication mechanisms. This paper presents a comprehensive study conducted on the RKE systems of 7 different cars from 4 automobile manufacturers not previously explored. 
 
@@ -21,4 +21,4 @@ Links:- [Preprint](https://eprint.iacr.org/2024/1816), [Code](https://github.com
 
 
 
-**Analysis of Over-the-Air(OTA) Software Update Mechanisms in Automotives**
+## Analysis of Over-the-Air(OTA) Software Update Mechanisms in Automotives
