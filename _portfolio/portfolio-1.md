@@ -11,3 +11,5 @@ We present Mewbie, the first scale-adjustable benchmark that leverages productio
 <!-- %, allowing users to create applications that fit their desired size -- while still being representative of real-world applications. -->
 
 We showcase Mewbie with a datastore-focused use case, where we experiment with how a microservice deployment based on the Alibaba production dataset responds to different datastore mixtures (using Redis, MongoDB and MySQL), and also the impact of using different consistency semantics. Our evaluation shows that Mewbie effectively captures the dynamics of large-scale microservice infrastructures, and provides useful insights regarding how system design choices affect the end-to-end request processing time.
+
+This <u>first-authored</u> work will be submitted to **[ASPLOS '26](https://asplos-conference.org/2026/)**.
