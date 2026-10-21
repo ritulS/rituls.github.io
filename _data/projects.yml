@@ -1,0 +1,59 @@
+# `summary` is Markdown. `image` is optional.
+- title: Context compression in LLM agents
+  subtitle: What does compressing an agent's context cost beyond tokens?
+  context: UT Austin — with Prasoon Sinha, Akiho Kawada and Neeraja J. Yadwadkar
+  summary: >-
+    Long-horizon agents accumulate context quickly, and compression is the usual fix. This project
+    is a systematic study of context compression techniques for LLM agents, looking past token savings
+    to how compression affects the agent itself.
+  links:
+    - { label: arXiv, url: "https://arxiv.org/abs/2609.32961" }
+
+- title: Mewbie
+  subtitle: Scale-adjustable benchmarking for microservices
+  context: INESC-ID Lisbon & Vrije Universiteit Amsterdam — with Rodrigo Rodrigues and Alexandru Iosup
+  image: /images/mewbie.png
+  summary: >-
+    Existing microservice benchmarks are orders of magnitude smaller than real deployments.
+    Mewbie builds workloads from production traces enriched with object identifiers and
+    read/write ratios, and uses a topology-preserving downscaling technique so the benchmark
+    runs at any deployment size. We use it to study how datastore mixes (Redis, MongoDB, MySQL)
+    and consistency semantics shape end-to-end latency on an Alibaba-derived deployment.
+  links:
+    - { label: Thesis, url: "https://atlarge-research.com/pdfs/2025-rsatish-msc-thesis.pdf" }
+
+- title: TriggerPerf
+  subtitle: How fast are serverless event triggers?
+  context: Vrije Universiteit Amsterdam — with Alexandru Iosup
+  image: /images/triggerperf.png
+  summary: >-
+    Trigger latency — the time from a data store event to function invocation — takes up to
+    62% of execution time in common serverless applications. TriggerPerf characterizes the
+    trigger mechanisms of S3, DynamoDB and Aurora, finding latency up to 100× higher than an
+    etcd baseline and 10× higher tail latency under load for S3 and Aurora.
+  links:
+    - { label: CCGRID '25 paper, url: "https://doi.org/10.1109/CCGRID64434.2025.00030" }
+    - { label: Code, url: "https://github.com/ritulS/trigger-perf" }
+
+- title: Automotive keyless entry security
+  subtitle: Attacking remote keyless entry systems
+  context: Ashoka University — with Debayan Gupta
+  image: /images/rke.png
+  summary: >-
+    A study of the remote keyless entry systems of seven cars from Honda, Maruti-Suzuki, Toyota
+    and Mahindra, including their susceptibility to RollJam and rollback attacks. Along the way
+    we built Puck-py, an open-source tool that automates much of RKE protocol analysis.
+  links:
+    - { label: Preprint, url: "https://eprint.iacr.org/2024/1816" }
+
+- title: NEUROCRYPT
+  subtitle: Coercion-resistant implicit memory authentication
+  context: Ashoka University — with Debayan Gupta
+  image: /images/neurocrypt.png
+  summary: >-
+    A fallback authentication system at the intersection of security, HCI and cognitive science.
+    Users learn a secret through Serial Interception Sequence Learning, extended with auditory and
+    haptic cues, and we evaluate the approach with a user study.
+  links:
+    - { label: AAAI-22 abstract, url: "https://aaai.org/papers/13041-neurocrypt-coercion-resistant-implicit-memory-authentication-student-abstract/" }
+    - { label: Code, url: "https://github.com/ritulS/Neurocrypt_game" }

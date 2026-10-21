@@ -1,0 +1,31 @@
+<section class="intro">
+  <div class="intro-aside">
+    <div class="portrait-frame">
+      <img class="portrait" src="{{ '/images/profile.jpg' | relative_url }}" alt="Portrait of Ritul Satish" width="280" height="280">
+    </div>
+    {% include links.html %}
+  </div>
+  <div class="intro-main">
+    <h1 class="intro-name">{{ site.author.name }}</h1>
+    <p class="intro-role">PhD Student <span aria-hidden="true">·</span> UT Austin</p>
+    <p>
+      I'm a PhD student in Computer Science at UT Austin, working with
+      <a href="https://www.cs.utexas.edu/~venkatar/index.html">Venkat Arun</a> and
+      <a href="https://ut-sysml.ece.utexas.edu/">Neeraja J. Yadwadkar</a>. I work at the intersection of
+      LLM agents, reasoning, and ML systems — making long-horizon, tool-using agents more robust, reliable,
+      and efficient. I study agent reasoning and planning, memory and context management, inference-time
+      behavior, and the systems support needed to run agents at scale.
+    </p>
+    <p>
+      Before my PhD, I did a master's in Computer Science at the University of Amsterdam and Vrije Universiteit,
+      working on cloud performance with the <a href="https://atlarge-research.com/">AtLarge</a> group
+      (Alexandru Iosup) and at INESC-ID Lisbon (Rodrigo Rodrigues). Earlier, I worked on computer security
+      with Debayan Gupta at Ashoka University.
+    </p>
+  </div>
+</section>
+
+<section>
+  <h2>Publications</h2>
+  {% include pub-list.html %}
+</section>

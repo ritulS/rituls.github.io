@@ -1,0 +1,17 @@
+---
+title: Blog
+---
+<h1>Blog</h1>
+{%- if site.posts.size == 0 %}
+<p class="muted">Nothing here yet.</p>
+{%- else %}
+{%- assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+{%- for year in by_year %}
+<h2>{{ year.name }}</h2>
+<ul class="post-list">
+  {%- for post in year.items %}
+  <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {%- endfor %}
+</ul>
+{%- endfor %}
+{%- endif %}

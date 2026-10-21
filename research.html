@@ -1,0 +1,21 @@
+---
+title: Research
+permalink: /research/
+---
+<h1>Research</h1>
+<p class="lede">I currently work on LLM agents and the systems that run them. Before my PhD, I built tools to measure and understand cloud systems, and before that I worked on applied security.</p>
+
+{%- for p in site.data.projects %}
+<article class="project">
+  <h2>{{ p.title }}</h2>
+  <p class="subtitle">{{ p.subtitle }}</p>
+  <p class="context">{{ p.context }}</p>
+  {%- if p.image %}
+  <figure><img src="{{ p.image | relative_url }}" alt="Overview diagram of {{ p.title }}" loading="lazy"></figure>
+  {%- endif %}
+  {{ p.summary | markdownify }}
+  {%- if p.links.size > 0 %}
+  <p class="project-links">{% include pub-links.html links=p.links %}</p>
+  {%- endif %}
+</article>
+{%- endfor %}

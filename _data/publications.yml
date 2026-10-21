@@ -1,0 +1,33 @@
+# Newest first. Your name is highlighted automatically.
+# Optional: `status: Under review` adds a note after the venue; `badge: Best Paper` adds a pill.
+- title: "Beyond Token Savings: A Systematic Study of Context Compression in LLM Agents"
+  authors: Ritul Satish, Prasoon Sinha, Akiho Kawada, Neeraja J. Yadwadkar
+  venue: arXiv preprint, 2026
+  links:
+    - { label: arXiv, url: "https://arxiv.org/abs/2609.32961" }
+
+- title: "Mewbie: Scale-Adjustable Benchmark for Microservice Deployments"
+  authors: Ritul Satish
+  venue: Master's Thesis, University of Amsterdam & Vrije Universiteit Amsterdam, 2025
+  links:
+    - { label: Thesis, url: "https://atlarge-research.com/pdfs/2025-rsatish-msc-thesis.pdf" }
+
+- title: Performance Characterization of Data Store Event Trigger Mechanisms for Serverless Computing
+  authors: Ritul Satish, Sacheendra Talluri, Sudarsan Sivakumar, Matthijs Jansen, Alexandru Iosup
+  venue: 25th IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGRID), 2025
+  links:
+    - { label: Paper, url: "https://doi.org/10.1109/CCGRID64434.2025.00030" }
+    - { label: Code, url: "https://github.com/ritulS/trigger-perf" }
+
+- title: "Attacking Automotive RKE Security: How Smart are your 'Smart' Keys?"
+  authors: Ritul Satish, Alfred Daimari, Argha Chakrabarty, Kahaan Shah, Debayan Gupta
+  venue: IACR Cryptology ePrint Archive, 2024/1816
+  links:
+    - { label: ePrint, url: "https://eprint.iacr.org/2024/1816" }
+
+- title: "NEUROCRYPT: Coercion-Resistant Implicit Memory Authentication (Student Abstract)"
+  authors: Ritul Satish, Niranjan Rajesh, Argha Chakrabarty, Aditi Jain, Sristi Bafna, Arup Mondal, Debayan Gupta
+  venue: AAAI Conference on Artificial Intelligence (Student Abstract Track), 2022
+  links:
+    - { label: Paper, url: "https://doi.org/10.1609/aaai.v36i11.21657" }
+    - { label: Code, url: "https://github.com/ritulS/Neurocrypt_game" }

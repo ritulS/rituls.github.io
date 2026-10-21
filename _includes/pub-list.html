@@ -1,0 +1,12 @@
+<ol class="pubs">
+  {%- for pub in site.data.publications %}
+  <li class="pub">
+    <div class="pub-body">
+      <span class="pub-title">{{ pub.title }}</span>
+      <span class="pub-authors">{{ pub.authors | replace: site.author.name, '<span class="me">Ritul Satish</span>' }}</span>
+      <span class="pub-venue">{{ pub.venue }}{% if pub.status %} · {{ pub.status }}{% endif %}{% if pub.badge %} <span class="badge">{{ pub.badge }}</span>{% endif %}</span>
+      {% include pub-links.html links=pub.links %}
+    </div>
+  </li>
+  {%- endfor %}
+</ol>
