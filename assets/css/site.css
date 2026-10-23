@@ -224,6 +224,13 @@ strong { font-weight: 600; }
   hyphens: auto;
   -webkit-hyphens: auto;
 }
+.intro-main strong { font-weight: 700; color: var(--primary); }
+.intro-main .goal {
+  text-decoration: underline;
+  text-decoration-color: var(--ut);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
 
 .social-icons {
   display: flex;
